@@ -1,0 +1,6 @@
+@GrapeCity_HostAddress = http://localhost:5148
+
+GET {{GrapeCity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
